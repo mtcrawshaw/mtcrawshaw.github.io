@@ -1,0 +1,13 @@
+Outline:
+Name, contact info
+Picture
+Paragraph regarding research interests
+Links to CV, GitHub, Twitter, ?
+Publications
+- Preprints
+Teaching?
+
+Future other sections:
+Link to Google Scholar
+News
+Invited Talks
