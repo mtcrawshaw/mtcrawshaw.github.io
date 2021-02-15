@@ -2,7 +2,7 @@ Outline:
 Name, contact info
 Picture
 Paragraph regarding research interests
-Links to CV, GitHub, Twitter, ?
+Links to CV, GitHub, Twitter
 Publications
 - Preprints
 Teaching?
@@ -11,3 +11,10 @@ Future other sections:
 Link to Google Scholar
 News
 Invited Talks
+
+Additions after v1:
+- Nicer/varied fonts
+- Photo next to name
+- Text centered on page
+- Photo next to project description
+- Format publication list with varying fonts + link to papers
